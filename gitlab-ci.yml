@@ -1,0 +1,7 @@
+.gitlab-ci.yml (versão1)
+image: python:3.14.6
+
+ola:
+  script:
+    - python --version
+    - echo "Momawodmaw"
